@@ -26,3 +26,5 @@ User Story #10: The height of the welcome section should be equal to the height 
 User Story #11: The navbar should always be at the top of the viewport.
 
 You can build your project by using this CodePen template and clicking Save to create your own pen. Or you can use this CDN link to run the tests in any environment you like: https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js
+
+Live Site - https://veralee225.github.io/Personal-portfolio-page/
