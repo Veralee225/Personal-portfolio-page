@@ -1,7 +1,7 @@
 # Personal-portfolio-page
-Freecodecamp Project 5
+**Responsive Web Design Project 5
 
-Build a Personal Portfolio WebpagePassed
+Build a Personal Portfolio Webpage**
 
 User Story #1: My portfolio should have a welcome section with an id of welcome-section.
 
